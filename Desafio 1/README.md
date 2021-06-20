@@ -18,4 +18,5 @@ Após isso realizei o treinamento passando as demais notas e tive o seguinte res
 Ao avaliar os dois modelos com o modulo Evaluate Model os dois apresentaram uma pequena diferença nos resultados, mas percebi que ao passar todas as notas e não somente so duas ela apresentou um resultado mais satisfatorio.
 
 Segue imagens do resultado do Evaluate Model:
-<img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Evalute-Model-Linear.png" width="500"><img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Evalute-Model-2-Linear.png" width="500">
+<img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Evalute-Model-Linear.png" width="500">
+<img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Evalute-Model-2-Linear.png" width="500">
