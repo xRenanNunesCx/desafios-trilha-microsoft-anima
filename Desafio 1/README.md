@@ -30,12 +30,14 @@ Esses foram os dados inputados para a IA no teste somente com duas notas:
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Data-Test.png" width="750">
 
 E esse foi o resultado:
+
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Python-Result.png" width="750">
 
 Esses foram os dados utilizados para todas as colunas:
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Data-test-3.png" width="750">
 
 E esses foram os resultados:
+
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Python-Result-2.png" width="750">
 
 ### Conlusão
