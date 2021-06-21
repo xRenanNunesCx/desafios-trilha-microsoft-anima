@@ -5,7 +5,6 @@ Você deverá realizar uma análise de regressão para descobrir se é possível
 Você deverá mostrar a previsão de uma nota de Ciências da Natureza com base em uma nota da prova de Matemática.
 
 ### Resolução
-
 Segue abaixo o pipeline utilizado para realização desse desafio:
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Pipeline-Geral.png" width="750">
 
@@ -40,7 +39,9 @@ E esses foram os resultados:
 
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%201/images/Python-Result-2.png" width="750">
 
-### Conlusão
+### Resumo
+Neste desafio foi utilizado apenas um tratamento de dados simples, para limpar valores inexistentes e selecionar colunas. As configurações de treinamento ficaram todas configuradas por padrão e conforme o material base orientou.
 
+### Conlusão
 Notei que para uma melhor acuracidade na previsão das notas seria necessario mais caracteristicas alem de somente as notas pelo menos considerando este modo de regressão linear, o melhor resultado foi quando teve mais de somente duas colunas de notas para realizar a previsão. Mas com este treinamento da IA foi possivel retornar valores bem aproximados do que realmente aconteceram.
 Utilizei tambémn outros modos de regressão mas nenhum apresentou um resultado melhor que esse, talvez pela falta de conhecimento nas configurações e tempo para realizar os desafios.
