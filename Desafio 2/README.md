@@ -32,7 +32,7 @@ E esse foi o resultado:
 <img src="https://github.com/xRenanNunesCx/desafios-trilha-microsoft-anima/blob/main/Desafio%202/images/Result-2-Cluster.png" width="750">
 
 ### Resumo
-Neste desafio foi necessario a utilização de um modulo para filtrar os valores pela UF escolhida, assim foi possivel tratar esses dados limpando os valores inexistentes e tratando novamente o restante. As configurações de treinamento ficaram todas configuradas por padrão e conforme o material base orientou.
+Neste desafio foi necessario a utilização de um modulo SQL para filtrar os valores pela UF escolhida, assim foi possivel tratar esses dados limpando os valores inexistentes e tratando novamente o restante. As configurações de treinamento ficaram todas configuradas por padrão e conforme o material base orientou.
 
 ### Conlusão
 Através somente dos materiais disponiveis não foi possivel identificar se este treinamento teve um bom desempenho ou não, pois não sei o quão disperso os valores deveriam ficar para se tornar algo ideal. Aparentemente se comportou da maneira esperada.
